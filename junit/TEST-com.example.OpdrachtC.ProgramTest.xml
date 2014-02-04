@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="Tim-PC" name="com.example.OpdrachtC.ProgramTest" tests="2" time="0.059" timestamp="2014-02-04T14:48:19">
+<testsuite errors="0" failures="0" hostname="Tim-PC" name="com.example.OpdrachtC.ProgramTest" tests="2" time="0.049" timestamp="2014-02-04T15:31:57">
   <properties>
     <property name="java.vendor" value="Oracle Corporation" />
     <property name="env.USERDOMAIN_ROAMINGPROFILE" value="TIM-PC" />
@@ -79,7 +79,7 @@
     <property name="java.vm.vendor" value="Oracle Corporation" />
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment" />
     <property name="ant.version" value="Apache Ant(TM) version 1.8.4 compiled on May 22 2012" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.example.OpdrachtC.ProgramTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\eclipse\Workspace\OpdrachtC\junit\TEST-com.example.OpdrachtC.ProgramTest.xml crashfile=D:\eclipse\Workspace\OpdrachtC\junitvmwatcher7879998755027568922.properties propsfile=D:\eclipse\Workspace\OpdrachtC\junit2088776064265631515.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner com.example.OpdrachtC.ProgramTest filtertrace=true haltOnError=false haltOnFailure=false formatter=org.apache.tools.ant.taskdefs.optional.junit.OutErrSummaryJUnitResultFormatter showoutput=false outputtoformatters=true logfailedtests=true logtestlistenerevents=false formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,D:\eclipse\Workspace\OpdrachtC\junit\TEST-com.example.OpdrachtC.ProgramTest.xml crashfile=D:\eclipse\Workspace\OpdrachtC\junitvmwatcher1280061224146700962.properties propsfile=D:\eclipse\Workspace\OpdrachtC\junit5221315885361573299.properties" />
     <property name="java.class.path" value="D:\eclipse\Workspace\OpdrachtC\target\classes;D:\eclipse\Workspace\OpdrachtC\target\test-classes;D:\eclipse\plugins\org.junit_4.11.0.v201303080030\junit.jar;D:\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar;D:\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-launcher.jar;D:\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar;D:\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit.jar;D:\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant-junit4.jar" />
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification" />
     <property name="env.LOGONSERVER" value="\\MicrosoftAccount" />
@@ -120,7 +120,7 @@
     <property name="ant.project.invoked-targets" value="build,ProgramTest" />
     <property name="env.PROCESSOR_LEVEL" value="6" />
   </properties>
-  <testcase classname="com.example.OpdrachtC.ProgramTest" name="calculate" time="0.002" />
+  <testcase classname="com.example.OpdrachtC.ProgramTest" name="calculate" time="0.001" />
   <testcase classname="com.example.OpdrachtC.ProgramTest" name="PrintLineTest" time="0.0" />
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

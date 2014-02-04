@@ -1,0 +1,2 @@
+cd junit
+touch *.xml
