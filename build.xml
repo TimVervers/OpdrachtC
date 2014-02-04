@@ -49,7 +49,6 @@
     <target depends="init" name="build-project">
         <echo message="${ant.project.name}: ${ant.file}"/>
         <javac debug="true" debuglevel="${debuglevel}" destdir="target/classes" includeantruntime="false" source="${source}" target="${target}">
-            <src path="src/main/java"/>
             <src path="src/main/resources"/>
             <exclude name="**"/>
             <classpath refid="OpdrachtC.classpath"/>
