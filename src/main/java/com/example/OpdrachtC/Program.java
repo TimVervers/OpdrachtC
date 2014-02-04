@@ -9,7 +9,7 @@ public class Program {
 	
 	public String PrintLine(String p)
 	{
-		p += " grapje";
+		p += " leuk man";
 		return p;
 	}
 	

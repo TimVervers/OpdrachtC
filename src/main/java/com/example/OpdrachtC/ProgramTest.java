@@ -11,7 +11,7 @@ public class ProgramTest {
 		Program p = new Program();
 		String lol = p.PrintLine("Lol");
 		
-		assertEquals(lol , "Lol grapje");
+		assertEquals(lol , "Lol leuk man");
 	}
 	
 	@Test
